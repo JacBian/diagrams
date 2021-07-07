@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T08:49:38.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="IZ7YHf-thrvhZb7TwO1n" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T08:49:53.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="QBYBjw02qGbi6rE0C2bN" version="14.8.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1133" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="pDkC8lwFGVZ4hld58j9O-23" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;feat-taskId分支merge到develop&lt;/span&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;失败人工干预处理冲突&lt;/div&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;merge后build代码，push到开发环境&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="740" y="355" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pDkC8lwFGVZ4hld58j9O-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pDkC8lwFGVZ4hld58j9O-25" target="pDkC8lwFGVZ4hld58j9O-19" edge="1">
+        <mxCell id="pDkC8lwFGVZ4hld58j9O-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pDkC8lwFGVZ4hld58j9O-25" target="pDkC8lwFGVZ4hld58j9O-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pDkC8lwFGVZ4hld58j9O-28" value="failure" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pDkC8lwFGVZ4hld58j9O-27" vertex="1" connectable="0">
