@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-09T08:07:50.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="CVvEt0Zd4BouyFRAMC_6" version="14.8.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-09T08:13:34.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="uJE6cZ9Ke3YIiExD6487" version="14.8.5" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="持续集成">
     <mxGraphModel dx="1166" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -415,6 +415,36 @@
         </mxCell>
         <mxCell id="ANdN9nj3DTnuABHRVFin-35" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="BjtOwrvwRhapwuUrSTQi-1">
           <mxGeometry x="520" y="540" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANdN9nj3DTnuABHRVFin-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="BjtOwrvwRhapwuUrSTQi-1">
+          <mxGeometry x="1000" y="80" width="920" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ANdN9nj3DTnuABHRVFin-37" value="新增项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BjtOwrvwRhapwuUrSTQi-1">
+          <mxGeometry x="1040" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANdN9nj3DTnuABHRVFin-38" value="修改项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BjtOwrvwRhapwuUrSTQi-1">
+          <mxGeometry x="1181" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANdN9nj3DTnuABHRVFin-39" value="结束项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BjtOwrvwRhapwuUrSTQi-1">
+          <mxGeometry x="1320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANdN9nj3DTnuABHRVFin-42" value="新增成员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BjtOwrvwRhapwuUrSTQi-1">
+          <mxGeometry x="1040" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANdN9nj3DTnuABHRVFin-43" value="删除成员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BjtOwrvwRhapwuUrSTQi-1">
+          <mxGeometry x="1181" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANdN9nj3DTnuABHRVFin-44" value="成员授权" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BjtOwrvwRhapwuUrSTQi-1">
+          <mxGeometry x="1320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANdN9nj3DTnuABHRVFin-45" value="新增成员小组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BjtOwrvwRhapwuUrSTQi-1">
+          <mxGeometry x="1460" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANdN9nj3DTnuABHRVFin-46" value="删除成员小组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BjtOwrvwRhapwuUrSTQi-1">
+          <mxGeometry x="1600" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ANdN9nj3DTnuABHRVFin-47" value="关联小组和成员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BjtOwrvwRhapwuUrSTQi-1">
+          <mxGeometry x="1740" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
