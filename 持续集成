@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T08:49:53.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="QBYBjw02qGbi6rE0C2bN" version="14.8.4" type="github">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1133" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-07-09T07:34:19.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="p9Z6RMG0mVBwAQcghnJJ" version="14.8.5" type="github" pages="2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="持续集成">
+    <mxGraphModel dx="1166" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -354,6 +354,14 @@
         <mxCell id="pDkC8lwFGVZ4hld58j9O-112" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;hotfix-bugId分支merge到master分支，同时cherry-pick到develop、test&lt;/span&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;失败需要人工干预解决冲突，然后重新解决&lt;/div&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;merge后build代码，push到生产环境&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1205.8999999999999" y="1840" width="249.4" height="120" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RLID_UrH5Itincy50gB0" name="一体化矩阵">
+    <mxGraphModel dx="1166" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="BjtOwrvwRhapwuUrSTQi-0" />
+        <mxCell id="BjtOwrvwRhapwuUrSTQi-1" parent="BjtOwrvwRhapwuUrSTQi-0" />
       </root>
     </mxGraphModel>
   </diagram>
