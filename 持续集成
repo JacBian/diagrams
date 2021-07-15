@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T05:48:49.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="slg5KAKVz0jEpyAenCaU" version="14.8.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-15T06:04:47.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JxG00yOvmnV7PBzBrGZc" version="14.8.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="持续集成">
     <mxGraphModel dx="1166" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,8 +67,8 @@
         <mxCell id="pDkC8lwFGVZ4hld58j9O-21" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 13px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgba(255, 255, 255, 0.01); text-decoration: none; display: inline; float: none;&quot;&gt;代码管理&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pDkC8lwFGVZ4hld58j9O-23" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;feat-taskId分支merge到develop&lt;/span&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;失败人工干预处理冲突&lt;/div&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;merge后build代码，push到开发环境&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="740" y="355" width="200" height="120" as="geometry" />
+        <mxCell id="pDkC8lwFGVZ4hld58j9O-23" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;feat-taskId分支&lt;/span&gt;&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;先pull远程develop的变化&lt;/span&gt;&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;&lt;br&gt;merge到远程develop&lt;br&gt;&lt;/span&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;失败人工干预处理冲突&lt;/div&gt;&lt;div style=&quot;resize: none ; outline: none ; font-size: 13px ; color: rgb(50 , 50 , 50) ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;merge后build代码，push到开发环境&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="740" y="355" width="240" height="145" as="geometry" />
         </mxCell>
         <mxCell id="pDkC8lwFGVZ4hld58j9O-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pDkC8lwFGVZ4hld58j9O-25" target="pDkC8lwFGVZ4hld58j9O-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -358,7 +358,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RLID_UrH5Itincy50gB0" name="一体化矩阵">
-    <mxGraphModel dx="1166" dy="1995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="1889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BjtOwrvwRhapwuUrSTQi-0" />
         <mxCell id="BjtOwrvwRhapwuUrSTQi-1" parent="BjtOwrvwRhapwuUrSTQi-0" />
