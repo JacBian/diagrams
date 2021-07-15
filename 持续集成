@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T07:01:38.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="5-ts1aatv7n3hNAaDLyE" version="14.8.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-15T05:48:49.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="slg5KAKVz0jEpyAenCaU" version="14.8.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="持续集成">
-    <mxGraphModel dx="8329" dy="5900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -471,109 +471,109 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rrxW4BSY49VhCAjzrJfT" name="用户故事">
-    <mxGraphModel dx="1758" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HuFh5Izo5N0rLTugoXQF-0" />
         <mxCell id="HuFh5Izo5N0rLTugoXQF-1" parent="HuFh5Izo5N0rLTugoXQF-0" />
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-1" target="TFOMqIzuSu0ls8bTMdRg-2">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-1" target="TFOMqIzuSu0ls8bTMdRg-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-1" value="故事一" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-1" value="项目组" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="150" y="30" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-2" value="创建项目&lt;br&gt;同时创建项目组（可选）" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-2" value="创建项目&lt;br&gt;同时创建项目组（可选）" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="215" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-8" target="TFOMqIzuSu0ls8bTMdRg-9">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-8" target="TFOMqIzuSu0ls8bTMdRg-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-8" value="故事二" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-8" value="新增仓库" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="150" y="220" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-9" target="TFOMqIzuSu0ls8bTMdRg-13">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-9" target="TFOMqIzuSu0ls8bTMdRg-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-9" value="创建仓库" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-9" value="创建仓库" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="215" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-13" target="TFOMqIzuSu0ls8bTMdRg-15">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-13" target="TFOMqIzuSu0ls8bTMdRg-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-17" value="存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFOMqIzuSu0ls8bTMdRg-16">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-17" value="存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TFOMqIzuSu0ls8bTMdRg-16" vertex="1" connectable="0">
           <mxGeometry x="-0.1667" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-13" target="TFOMqIzuSu0ls8bTMdRg-18">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-13" target="TFOMqIzuSu0ls8bTMdRg-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-20" value="不存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFOMqIzuSu0ls8bTMdRg-19">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-20" value="不存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TFOMqIzuSu0ls8bTMdRg-19" vertex="1" connectable="0">
           <mxGeometry x="-0.4" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-13" value="项目是否存在项目组" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-13" value="项目是否存在项目组" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="435" y="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-15" value="确保gitlab创建完成" style="whiteSpace=wrap;html=1;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-15" value="确保gitlab创建完成" style="whiteSpace=wrap;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="575" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-18" value="引导用户关联项目组" style="whiteSpace=wrap;html=1;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-18" value="引导用户关联项目组" style="whiteSpace=wrap;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="415" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-21" target="TFOMqIzuSu0ls8bTMdRg-22">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-21" target="TFOMqIzuSu0ls8bTMdRg-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-21" value="故事三" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-21" value="关联仓库" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="150" y="360" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-22" target="TFOMqIzuSu0ls8bTMdRg-13">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-22" target="TFOMqIzuSu0ls8bTMdRg-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-22" value="关联已有仓库" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-22" value="关联已有仓库" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="215" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-25" target="TFOMqIzuSu0ls8bTMdRg-26">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-25" target="TFOMqIzuSu0ls8bTMdRg-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-25" value="故事四" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-25" value="分支管理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="150" y="500" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-26" target="TFOMqIzuSu0ls8bTMdRg-31">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-26" target="TFOMqIzuSu0ls8bTMdRg-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-26" value="创建需求&lt;br&gt;同时创建分支" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-26" value="创建需求&lt;br&gt;同时创建分支" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="215" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-34" value="不存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-31" target="TFOMqIzuSu0ls8bTMdRg-33">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-34" value="不存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-31" target="TFOMqIzuSu0ls8bTMdRg-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-31" target="TFOMqIzuSu0ls8bTMdRg-35">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-31" target="TFOMqIzuSu0ls8bTMdRg-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-37" value="存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TFOMqIzuSu0ls8bTMdRg-36">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-37" value="存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TFOMqIzuSu0ls8bTMdRg-36" vertex="1" connectable="0">
           <mxGeometry x="-0.1226" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-31" value="是否存在仓库，是否存在develop" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-31" value="是否存在仓库，是否存在develop" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="435" y="485" width="115" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-33" value="引导用户创建仓库&lt;br&gt;提示用户手动初始化仓库" style="whiteSpace=wrap;html=1;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-33" value="引导用户创建仓库&lt;br&gt;提示用户手动初始化仓库" style="whiteSpace=wrap;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="432.5" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-35" value="确保gitlab分支创建成功" style="whiteSpace=wrap;html=1;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-35" value="确保gitlab分支创建成功" style="whiteSpace=wrap;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="627.5" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-38" target="TFOMqIzuSu0ls8bTMdRg-39">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-38" target="TFOMqIzuSu0ls8bTMdRg-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-38" value="故事五" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-38" value="故事五" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="150" y="760" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-39" value="完成需求&lt;br&gt;同时合并分支" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HuFh5Izo5N0rLTugoXQF-1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-39" value="完成需求&lt;br&gt;同时合并分支" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="215" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
