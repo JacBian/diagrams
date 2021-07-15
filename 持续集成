@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T06:04:47.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JxG00yOvmnV7PBzBrGZc" version="14.8.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-15T06:15:59.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="E4n_7Ldm1JwaaYhFISf3" version="14.8.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="持续集成">
     <mxGraphModel dx="1166" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,7 +471,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rrxW4BSY49VhCAjzrJfT" name="用户故事">
-    <mxGraphModel dx="1166" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1372" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HuFh5Izo5N0rLTugoXQF-0" />
         <mxCell id="HuFh5Izo5N0rLTugoXQF-1" parent="HuFh5Izo5N0rLTugoXQF-0" />
@@ -538,7 +538,7 @@
         <mxCell id="TFOMqIzuSu0ls8bTMdRg-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-25" target="TFOMqIzuSu0ls8bTMdRg-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-25" value="分支管理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-25" value="分支管理-新建" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
           <mxGeometry x="150" y="500" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFOMqIzuSu0ls8bTMdRg-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-26" target="TFOMqIzuSu0ls8bTMdRg-31" edge="1">
@@ -570,11 +570,11 @@
         <mxCell id="TFOMqIzuSu0ls8bTMdRg-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HuFh5Izo5N0rLTugoXQF-1" source="TFOMqIzuSu0ls8bTMdRg-38" target="TFOMqIzuSu0ls8bTMdRg-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TFOMqIzuSu0ls8bTMdRg-38" value="故事五" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
-          <mxGeometry x="150" y="760" width="30" height="60" as="geometry" />
+        <mxCell id="TFOMqIzuSu0ls8bTMdRg-38" value="分支管理-合并" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
+          <mxGeometry x="150" y="750" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TFOMqIzuSu0ls8bTMdRg-39" value="完成需求&lt;br&gt;同时合并分支" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="HuFh5Izo5N0rLTugoXQF-1" vertex="1">
-          <mxGeometry x="215" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="215" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
